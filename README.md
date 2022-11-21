@@ -7,7 +7,7 @@ The paradox of choice in our everyday life can cause stress and anxiety. Are you
 
 ***Try latest app apk from below 👇***
 
-[Here](https://github.com/mdzihad89/lets_sketch/releases/download/v1.0.0/LetsSketch.apk)
+[Here](https://github.com/mdzihad89/food_recipe/releases/download/v1.0.0/foodado.apk)
 
 
 ## UI Design 🎨
