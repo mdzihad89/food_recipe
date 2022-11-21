@@ -21,9 +21,9 @@ Splash | OnBoarding | Home | Details
 ![](https://user-images.githubusercontent.com/83513508/203155052-b9a39e90-7923-40c9-ac78-b38b16534f26.jpg) | ![](https://user-images.githubusercontent.com/83513508/203155524-b1370270-768a-402f-8c8a-277e427a66a2.jpg) | ![](https://user-images.githubusercontent.com/83513508/203155822-2f9b8411-decf-4271-abdc-5be50b41fa07.jpg) | ![](https://user-images.githubusercontent.com/83513508/203155966-28ad5935-ec31-4dce-bb1a-2acf18789ba2.jpg)
 
 
-Splash | OnBoarding | Home | Details 
---- | --- | --- | --
-![](https://user-images.githubusercontent.com/83513508/203155052-b9a39e90-7923-40c9-ac78-b38b16534f26.jpg) | ![](https://user-images.githubusercontent.com/83513508/203155524-b1370270-768a-402f-8c8a-277e427a66a2.jpg) | ![](https://user-images.githubusercontent.com/83513508/203155822-2f9b8411-decf-4271-abdc-5be50b41fa07.jpg) | ![](https://user-images.githubusercontent.com/83513508/203155966-28ad5935-ec31-4dce-bb1a-2acf18789ba2.jpg)
+Filter | Loading | Favourite
+--- | --- | --
+![](https://user-images.githubusercontent.com/83513508/203157654-a992fb4c-c698-45f0-aeb5-a3c80047a5ad.jpg) | ![](ttps://user-images.githubusercontent.com/83513508/203157654-a992fb4c-c698-45f0-aeb5-a3c80047a5ad.jpg) | ![](https://user-images.githubusercontent.com/83513508/203157831-6172e0d3-3413-4ec0-821c-936c97623d7e.jpg)
 
 
 
