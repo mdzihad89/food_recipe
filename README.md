@@ -1,16 +1,13 @@
-# recipe_app
+# Foodado
 
-A new Flutter project.
+The paradox of choice in our everyday life can cause stress and anxiety. Are you tired of figuring out what to eat after a long day? Foodado will speed up decision making, free up time and energy so you can spend more time on important decisions in your life. Use the filter function to find recipes from your requirements, save recipes for later if you like.
 
-## Getting Started
+![](https://github.com/gu-tig333-ht22/Grupp-5/blob/main/assets/readme_assets/Foodado.gif)
 
-This project is a starting point for a Flutter application.
+A simple recipe app made with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+<br />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+***Try latest Lets Sketch app apk from below 👇***
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Here](https://github.com/mdzihad89/lets_sketch/releases/download/v1.0.0/LetsSketch.apk)
