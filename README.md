@@ -36,5 +36,5 @@ Filter | Loading | Favourite
 * [Lottie](https://pub.dev/packages/lottie)
 * [Appinio Swiper](https://pub.dev/packages/appinio_swiper)
 * [Google Fonts](https://pub.dev/packages/google_fonts)
-* [Shared Preferences].()
-* [Flutter Native Splash]
+* [Shared Preferences]()
+* [Flutter Native Splash]()
