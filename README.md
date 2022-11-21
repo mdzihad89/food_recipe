@@ -23,7 +23,7 @@ Splash | OnBoarding | Home | Details
 
 Filter | Loading | Favourite
 --- | --- | --
-![](https://user-images.githubusercontent.com/83513508/203157654-a992fb4c-c698-45f0-aeb5-a3c80047a5ad.jpg) | ![](https://user-images.githubusercontent.com/83513508/203157654-a992fb4c-c698-45f0-aeb5-a3c80047a5ad.jpg) | ![](https://user-images.githubusercontent.com/83513508/203157831-6172e0d3-3413-4ec0-821c-936c97623d7e.jpg)
+![](https://user-images.githubusercontent.com/83513508/203157654-a992fb4c-c698-45f0-aeb5-a3c80047a5ad.jpg) | ![](ttps://user-images.githubusercontent.com/83513508/203157831-6172e0d3-3413-4ec0-821c-936c97623d7e.jpg) | ![](https://user-images.githubusercontent.com/83513508/203158503-72ef3b9f-adea-4995-93d9-5d1187bb6f73.jpg)
 
 
 
